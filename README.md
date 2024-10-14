@@ -12,4 +12,4 @@ Top Grossing Movies: The primary dataset for this project used for this analysis
 ### Tools
 
 - Python - Data Analysis and Data Cleaning
-- PowerBi- Reports
+
